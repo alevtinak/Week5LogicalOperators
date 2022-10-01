@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/ANDOperator/bin/Debug/net6.0/ANDOperator
+/Users/alyaklyusheva/Projects/ANDOperator/bin/Debug/net6.0/ANDOperator.deps.json
+/Users/alyaklyusheva/Projects/ANDOperator/bin/Debug/net6.0/ANDOperator.runtimeconfig.json
+/Users/alyaklyusheva/Projects/ANDOperator/bin/Debug/net6.0/ANDOperator.dll
+/Users/alyaklyusheva/Projects/ANDOperator/bin/Debug/net6.0/ANDOperator.pdb
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.dll
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/refint/ANDOperator.dll
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.pdb
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ANDOperator.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/ANDOperator/obj/Debug/net6.0/ref/ANDOperator.dll

@@ -1,0 +1,15 @@
+/Users/alyaklyusheva/Projects/OROperator/bin/Debug/net6.0/OROperator
+/Users/alyaklyusheva/Projects/OROperator/bin/Debug/net6.0/OROperator.deps.json
+/Users/alyaklyusheva/Projects/OROperator/bin/Debug/net6.0/OROperator.runtimeconfig.json
+/Users/alyaklyusheva/Projects/OROperator/bin/Debug/net6.0/OROperator.dll
+/Users/alyaklyusheva/Projects/OROperator/bin/Debug/net6.0/OROperator.pdb
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.csproj.AssemblyReference.cache
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfoInputs.cache
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.AssemblyInfo.cs
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.csproj.CoreCompileInputs.cache
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.dll
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/refint/OROperator.dll
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.pdb
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/OROperator.genruntimeconfig.cache
+/Users/alyaklyusheva/Projects/OROperator/obj/Debug/net6.0/ref/OROperator.dll

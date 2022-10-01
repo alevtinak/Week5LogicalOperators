@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{E878F1BD-CE7A-4F24-B6CF-85E1B8AFFC00}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week5LogicalOperators PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ANDOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ANDRanges FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OROperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
