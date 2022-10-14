@@ -3,7 +3,7 @@
 //temp > 10 AND temp <=15 - Chilly
 //temp >= 15 AND temp < 20 - Warm
 //temp >= 20 AND temp < 30 - Hot
-//temp >=30 - Boiling hot .
+//temp >=30 - Boiling hot
 
 
 Console.WriteLine("Enter the temperature: ");
@@ -26,7 +26,7 @@ else if(temp < 15 && temp >= 10)
 {
     Console.WriteLine("Chilly.");
 }
-else if(temp< 10 && temp>0)
+else if(temp < 10 && temp>0)
 {
     Console.WriteLine("Cold.");
 }

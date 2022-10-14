@@ -1,7 +1,41 @@
-﻿<Properties StartupConfiguration="{E878F1BD-CE7A-4F24-B6CF-85E1B8AFFC00}|Default">
-  <MonoDevelop.Ide.ItemProperties.Week5LogicalOperators PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+﻿<Properties StartupConfiguration="{B7CEBF71-572E-4903-8FF2-E5BF5F4E04FD}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.ANDOperator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.ANDRanges FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.OROperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OROperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OROperator/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="14" />
+      <File FileName="ANDOperator/Program.cs" Line="6" Column="40" />
+      <File FileName="OROperator/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week5LogicalOperators" expanded="True">
+            <Node name="IfDayOfTheWeek" expanded="True" />
+            <Node name="training2" expanded="True" />
+            <Node name="Week5LogicalOperators" expanded="True">
+              <Node name="ANDOperator" expanded="True" />
+              <Node name="ANDRanges1" expanded="True" />
+              <Node name="OROperator" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ANDRanges1 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.training2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Week5LogicalOperators PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ANDRanges PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
